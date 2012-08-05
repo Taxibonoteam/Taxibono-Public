@@ -11,6 +11,8 @@ Cada vez que alguno de tus familiares se transporte en taxi, puede activar Taxib
 
 Cuando recibas el mensaje de texto, entra a nuestra Página de Inicio: www.taxibono.com para rastrear a tu familiar.  Además, una vez tu familiar llegue a su destino, te enviaremos un mensaje de texto informándote.
 
+¿Deseas Colaborar? visita https://github.com/Taxibonoteam/Taxibono-Public/wiki/Obtener-acceso-al-Repositorio
+
 
 LICENCIA
 ==============
